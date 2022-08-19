@@ -32,3 +32,15 @@
 /*--------------------------------------------------------------
 # bubble  mobile view 
 --------------------------------------------------------------*/
+
+
+/* dots  mobile view  start*/
+
+@media (max-width: 440px){
+.dots .dot-2 {
+        top: 75px;
+    right: 15px;
+    z-index: -1;
+}}
+
+/* dots  mobile view end */
