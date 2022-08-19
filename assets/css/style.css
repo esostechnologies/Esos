@@ -157,7 +157,8 @@ h6 {
   font-size: 30px;
   font-weight: 700;
   letter-spacing: 1px;
-  color: #012970;
+/*   color: #012970; */
+  color: #323a9e;
   font-family: "Nunito", sans-serif;
   margin-top: 3px;
 }
