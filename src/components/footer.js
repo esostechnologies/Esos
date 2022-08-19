@@ -41,10 +41,11 @@ class Footer extends HTMLElement {
                         </div>
 
                         <div class="social-links mt-3">
-                            <a href="https://twitter.com/Esos_Technology" class="twitter"><i class="bi bi-twitter"></i></a>
                             <a href="https://www.facebook.com/esostechnologies" class="facebook"><i class="bi bi-facebook"></i></a>
-                            <a href="https://www.youtube.com/channel/UCKNISga0SC-fu4ou-5AKN-g" class="youtube"><i class="bi bi-youtube"></i></a>
+                            <a href="https://twitter.com/Esos_Technology" class="twitter"><i class="bi bi-twitter"></i></a>
                             <a href="https://www.linkedin.com/in/esos-technologies" class="linkedin"><i class="bi bi-linkedin"></i></a>
+                            <a href="https://www.instagram.com/esos_technologies" class="instagram"><i class="bi bi-instagram"></i></a>
+                            <a href="https://www.youtube.com/channel/UCKNISga0SC-fu4ou-5AKN-g" class="youtube"><i class="bi bi-youtube"></i></a>
                         </div>
                     </div>
 
