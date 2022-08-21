@@ -3,7 +3,6 @@ class Header extends HTMLElement {
       this.innerHTML = `
       
        <!--header section start-->
-        <header class="main-header w-100 z-10">
             <nav class="navbar navbar-expand-xl navbar-light sticky-header">
                 <div class="container d-flex align-items-center justify-content-lg-between position-relative">
                     <a href="index.html" class="navbar-brand d-flex align-items-center mb-md-0 text-decoration-none">
@@ -134,7 +133,6 @@ class Header extends HTMLElement {
                 </div>
             </div>
             <!--offcanvas menu end-->
-        </header>
         <!--header section end-->
 
 
@@ -142,5 +140,5 @@ class Header extends HTMLElement {
     }
   }
   
- customElements.define('main-header', Header);
+ customElements.define('header', Header);
  
