@@ -51,15 +51,15 @@ class Header extends HTMLElement {
                                         </div>
                                         <div class="dropdown-grid-item radius-right-side bg-light">
                                             <h6 class="drop-heading">Utility Pages</h6>
-                                            <a href="support.html" class="dropdown-link">
+                                            <a href="contact-us.html" class="dropdown-link">
                                                 <span class="me-2"><i class="far fa-life-ring"></i></span>
                                                 <div class="drop-title">Help Center</div>
                                             </a>
-                                            <a href="support-single.html" class="dropdown-link">
+                                            <a href="contact-us.html" class="dropdown-link">
                                                 <span class="me-2"><i class="far fa-headset"></i></span>
                                                 <div class="drop-title">Help Details</div>
                                             </a>
-                                            <a href="request-demo.html" class="dropdown-link">
+                                            <a href="request-a-quote.html" class="dropdown-link">
                                                 <span class="me-2"><i class="far fa-laptop-code"></i></span>
                                                 <div class="drop-title">Request for Demo</div>
                                             </a>
@@ -71,7 +71,7 @@ class Header extends HTMLElement {
                     </div>
 
                     <div class="action-btns text-end me-5 me-lg-0 d-none d-md-block d-lg-block">
-                        <a href="request-demo.html" class="btn btn-primary">Get Started</a>
+                        <a href="request-a-quote.html" class="btn btn-primary">Get Started</a>
                     </div>
                 </div>
             </nav>
@@ -79,7 +79,8 @@ class Header extends HTMLElement {
             <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasWithBackdrop">
                 <div class="offcanvas-header d-flex align-items-center mt-4">
                     <a href="index.html" class="d-flex align-items-center mb-md-0 text-decoration-none">
-                        <img src="assets/img/logo-color.png" alt="logo" class="img-fluid ps-2" />
+                           <img src="assets/img2/logo-color.png" alt="logo" class="img-fluid ps-2" style="max-height: 40px;" />
+                                <span class="logo-color m-view-logo" style="color: #323a9e;">Esos</span>
                     </a>
                     <button type="button" class="close-btn text-danger" data-bs-dismiss="offcanvas" aria-label="Close">
                         <i class="far fa-close"></i>
@@ -111,15 +112,15 @@ class Header extends HTMLElement {
                                     </div>
                                     <div class="dropdown-grid-item radius-right-side bg-light">
                                         <h6 class="drop-heading">Utility Pages</h6>
-                                        <a href="support.html" class="dropdown-link">
+                                        <a href="contact-us.html" class="dropdown-link">
                                             <span class="me-2"><i class="far fa-life-ring"></i></span>
                                             <div class="drop-title">Help Center</div>
                                         </a>
-                                        <a href="support-single.html" class="dropdown-link">
+                                        <a href="contact-us.html" class="dropdown-link">
                                             <span class="me-2"><i class="far fa-headset"></i></span>
                                             <div class="drop-title">Help Details</div>
                                         </a>
-                                        <a href="request-demo.html" class="dropdown-link">
+                                        <a href="request-a-quote.html" class="dropdown-link">
                                             <span class="me-2"><i class="far fa-laptop-code"></i></span>
                                             <div class="drop-title">Request for Demo</div>
                                         </a>
@@ -129,7 +130,7 @@ class Header extends HTMLElement {
                         </li>
                     </ul>
                     <div class="action-btns mt-4 ps-3">
-                        <a href="request-demo.html" class="btn btn-primary">Get Started</a>
+                        <a href="request-a-quote" class="btn btn-primary">Get Started</a>
                     </div>
                 </div>
             </div>
